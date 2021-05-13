@@ -1,0 +1,2 @@
+# Wakan
+Wakani flutter app
